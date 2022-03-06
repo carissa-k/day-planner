@@ -1,5 +1,5 @@
 body {
-  Font-Family: 'Noto Serif', Serif;
+  font-family: 'Assistant', sans-serif;
   font-size: 16px;
   line-height: 1;
 }
@@ -7,6 +7,7 @@ body {
 h1 {
   font-family: 'Abril Fatface', cursive;
   color: #fff;
+  padding-top: 50px;
 }
 
 .subhead {
@@ -23,6 +24,7 @@ h1 {
   font-size: 22px;
   padding-top: 10px;
   color: #99c2ff;
+  padding-bottom: 50px;
 }
 
 .time {
@@ -49,6 +51,7 @@ textarea {
   background-color: #003d99;
   color: black;
   border-radius: 0;
+  margin-bottom: 50px;
 }
 
 .description {
