@@ -14,4 +14,4 @@ https://carissa-k.github.io/day-planner/
 
 A screenshot of the application is below:
 
-![image](https://raw.githubusercontent.com/carissa-k/day-planner/main/screenshot.png)
+![image](https://raw.githubusercontent.com/carissa-k/day-planner/main/scheduler-screenshot.png)
