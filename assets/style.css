@@ -1,0 +1,101 @@
+body {
+  Font-Family: 'Noto Serif', Serif;
+  font-size: 16px;
+  line-height: 1;
+}
+
+h1 {
+  font-family: 'Abril Fatface', cursive;
+  color: #fff;
+}
+
+.subhead {
+  font-family: 'Assistant', sans-serif;
+  font-weight: 400;
+  font-size: 18px;
+  padding-top: 20px;
+  color: #fff;
+}
+
+.date {
+  font-family: 'Assistant', sans-serif;
+  font-weight: 700;
+  font-size: 22px;
+  padding-top: 10px;
+  color: #99c2ff;
+}
+
+.time {
+  font-family: 'Assistant', sans-serif;
+  font-weight: 700;
+  font-size: 16px;
+  padding-top: 10px;
+  color: #003d99;
+}
+
+textarea {
+  background: transparent;
+  border: none;
+  resize: none;
+  color: #000000;
+  border-left: 1px solid #88898C;
+  padding: 10px;
+  font-family: 'Assistant', sans-serif;
+  font-size: 15px;
+}
+
+.jumbotron {
+  text-align: center;
+  background-color: #003d99;
+  color: black;
+  border-radius: 0;
+}
+
+.description {
+  white-space: pre-wrap;
+}
+
+.time-block {
+  text-align: center;
+  border-radius: 15px;
+}
+
+.row {
+  white-space: pre-wrap;
+  height: 80px;
+  border-top: 1px solid white;;
+}
+
+.hour {
+  background-color: #ffffff;
+  color: #000000;
+  border-top: 1px dashed #ccc;
+}
+
+.past {
+  background-color: #f4f4f4;
+  color: white;
+}
+
+.present {
+  background-color: #99c2ff;
+  color: white;
+}
+
+.future {
+  background-color: #00cc88
+  color: white;
+}
+
+.saveBtn {
+  border: 1px solid #88898C;
+  border-top-right-radius: 15px;
+  border-bottom-right-radius: 15px;
+  background-color: #003d99;
+  color: white;
+}
+
+.saveBtn i:hover {
+  font-size: 25px;
+  transition: all .3s ease-in-out;
+}
